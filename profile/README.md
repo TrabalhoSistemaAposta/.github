@@ -26,12 +26,12 @@ O sistema permite que os usuários façam apostas em eventos como jogos esportiv
  
 **Turma de Sistemas para Internet**:
  
-- Ana Laura
-- Julia Mazoti
-- Rayssa Maely
-- Nathan Rocha
-- Gabriel
-- Leonardo
+- Ana Laura - https://github.com/LalaMarins
+- Julia Mazoti - https://github.com/juliamazoti
+- Rayssa Maely - https://github.com/orgs/TrabalhoSistemaAposta/people/Rayssa1Maely
+- Nathan Rocha - https://github.com/NathanRocha12
+- Gabriel - https://github.com/GabrielMFA
+- Leonardo - https://github.com/leonardonata
  
 ## 📝 Licença
  
