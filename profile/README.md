@@ -33,10 +33,6 @@ O sistema permite que os usuários façam apostas em eventos como jogos esportiv
 - Gabriel - https://github.com/GabrielMFA
 - Leonardo - https://github.com/leonardonata
  
-## 📝 Licença
- 
-Este projeto é de uso acadêmico e foi desenvolvido apenas para fins educativos. A distribuição ou utilização comercial não é permitida sem autorização prévia dos desenvolvedores.
- 
 ---
  
 Feito com 💜 pela equipe BetFriends.
